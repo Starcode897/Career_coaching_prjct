@@ -1,0 +1,36 @@
+/* Add a shadow to the bottom of the navbar */
+nav {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  }
+
+/* Change navbar thiccness */
+nav {
+    height: 90px;
+  }
+
+/* Change text size within navbar */
+div.navbar-collapse ul.navbar-nav li {
+    
+    font-family: "Arial";
+    font-size: 20px;
+    
+  }
+
+
+/* Border for introduction */
+/* Padding is the space between content and edge of box */
+/* color is text color */
+/* border is area outside of box. Irrelevant in this case */
+/* Margin is space between other elements and the outside of box. Like with padding and border, you can adjust top bottom left and right */
+.Intro {
+    height: 500px;
+    width: 600px;
+    background-color: rgb(121, 121, 121);
+    color: #fff;
+    padding: 10px;
+    /* border: solid 3px black; */
+    margin-top: 90px;
+    margin-bottom: 150px;
+    margin-left: 150px;
+    margin-right: 150px; 
+   }
