@@ -71,5 +71,106 @@
         margin-top: 440px;
         box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
     }
+    /* after border */
+
+    .second_box {
+        position:absolute;
+        height: 600px;
+        width: 600px;
+        background-color: rgb(224, 224, 224);
+        padding: 10px;
+        /* border: solid 3px black; */
+        margin-top: 90px;
+        margin-bottom: 150px;
+        margin-left: 500px;
+        margin-right: 150px;
+        box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);;
+    }
+    .second_head {
+        font-size: 50px;
+        font-family: "Arial";
+        color: rgb(2, 108, 150);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .second_body {
+        font-size: 25px;
+        font-family: "Arial";
+        color: rgb(0, 0, 0);
+        padding-top: 5px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .second_pic {
+        margin-left: 40px;
+        margin-top: 55px;
+        background-position:top;
+        width:220px;
+        height:360px;
+        box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
+    }
+
+    /* Solid border */
+    hr.second_divider {
+        border-top: 80px solid rgb(2, 108, 150);
+        margin-top: 270px;
+        box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
+    }
+
+
+    .third_box {
+        position:absolute;
+        height: 700px;
+        width: 600px;
+        background-color: rgb(224, 224, 224);
+        padding: 10px;
+        /* border: solid 3px black; */
+        margin-top: 90px;
+        margin-bottom: 150px;
+        margin-left: 400px;
+        margin-right: 150px;
+        box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);;
+    }
+    .third_head {
+        font-size: 50px;
+        text-align:"center";
+        font-family: "Arial";
+        color: rgb(2, 108, 150);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .third_body {
+        font-size: 25px;
+        text-align:"center";
+        font-family: "Arial";
+        color: rgb(0, 0, 0);
+        padding-top: 5px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    /* footer stuff */
+    .the_big_foot {
+        background-color: rgb(0, 0, 0);
+    }
+    /* Solid border */
+    hr.third_divider {
+        border-top: 80px solid rgb(2, 108, 150);
+        margin-top: 740px;
+    }
+
+    .footer {
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding-bottom: 10px;
+        font-size: 25px;
+    }
 
 /* END OF ABOUT PAGE */
