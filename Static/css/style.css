@@ -366,3 +366,55 @@
     font-size: 15px;
     color: rgb(255, 255, 255);
 }
+
+/* SERVICE PAGE END */
+
+
+/* PODCAST PAGE START */
+
+.podcast_img_container {
+    height: 700px;
+    width: 100%;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
+}
+
+.podcast_img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.title_thing {
+    background-color: rgb(2, 108, 150);
+    text-align: center;
+    width: 680px;
+    position: absolute;
+    top: 760px;
+    left: 25%;
+    height: 80px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
+}
+
+.title_texto {
+    text-align:center;
+    font-size: 50px;
+    font-family: "Arial";
+}
+
+
+/* Title Description */
+
+.title_description {
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+
+.describe_text {
+    font-size: 20px;
+    font-family: "Arial";
+    line-height: 2.0;
+    text-align: center;
+}
