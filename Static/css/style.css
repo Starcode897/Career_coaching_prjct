@@ -7,6 +7,7 @@
     /* Change navbar thiccness */
     nav {
         height: 90px;
+        width: 100%;
     }
 
     /* Change text size within navbar */
@@ -69,6 +70,7 @@
     hr.divider {
         border-top: 80px solid rgb(2, 108, 150);
         margin-top: 440px;
+        width: 100%;
         box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
     }
     /* after border */
@@ -118,6 +120,7 @@
     hr.second_divider {
         border-top: 80px solid rgb(2, 108, 150);
         margin-top: 270px;
+        width: 100%;
         box-shadow: 0 6px 8px 0 rgba(0,0,0,.2);
     }
 
